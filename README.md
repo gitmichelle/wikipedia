@@ -12,7 +12,6 @@ Rebuild the Wikipedia homepage using Bootstrap. Used divs, spans, classes, float
 ## Setup/Installation Requirements
 
 * `git clone https://github.com/gitmichelle/wikipedia.git` or download Zip
-* `cd wikipedia`
 * open index.html in browser
 
 
